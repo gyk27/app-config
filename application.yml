@@ -11,4 +11,4 @@ logging:
     io:
       pivotal: DEBUG
 catalog:
-  vendor: yyy company
+  vendor: uuu company
